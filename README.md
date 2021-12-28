@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm Jasmine (she/her/hers). 
-I graduated from the University of Chicago with a B.A. in Physics in 2020. 
 I am currently an NSF Graduate Research Fellow studying Physics at the Massachusetts Institute of Technolgy. 
+I graduated from the University of Chicago with a B.A. in Physics in 2020. 
+
 
 My research at MIT involves using ultracold atomic gases to simulate quantum phenomena.
 My lab's codebase is [here](https://github.com/Fletcher-Labs).
