@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 <!--
 **jkalia/jkalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jasmine (she/her/hers). 
+I graduated from the University of Chicago with a B.A. in Physics in 2020. 
+I am currently an NSF Graduate Research Fellow studying Physics at the Massachusetts Institute of Technolgy. 
+
+My research at MIT involves using ultracold atomic gases to simulate quantum phenomena.
+My lab's codebase is [here](https://github.com/Fletcher-Labs).
