@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jasmine (she/her/hers). 
+I'm Jasmine (she/her). 
 I am currently an NSF Graduate Research Fellow studying Physics at the Massachusetts Institute of Technolgy. 
 I graduated from the University of Chicago with a B.A. in Physics in 2020. 
 
